@@ -1,4 +1,4 @@
-# Healthcare Management System
+# Healthcare Backend
 
 A robust healthcare backend system built with Django and Django REST Framework that manages patients, doctors, and their relationships.
 
@@ -179,11 +179,3 @@ flake8
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-# This project is licensed under the MIT License - see the LICENSE file for details
-
-# healthcare-backend
-
-> > > > > > > a602c26c5b86185f0b57bdd2f90ed97cf0f496d3
